@@ -55,6 +55,14 @@
       "licenza": "TEST-BETA02",
       "data_accesso": "2025-04-04 12:59:59",
       "ip": "79.31.3.131"
+    },
+    {
+      "username": "rildi",
+      "nome": "rildi",
+      "email": "rildi",
+      "licenza": "TEST-BETA02",
+      "data_accesso": "2025-04-04 15:35:43",
+      "ip": "79.31.3.131"
     }
   ]
 }
